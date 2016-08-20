@@ -5,7 +5,10 @@ ACX coding Challenge
 Clone the project and run "mvn clean test" or "mvn clean verify". For your convenince, I have linked the project to Travis CI and the build status is displayed above. Run without varargs to convert the sample TXT file in the project.
 
 #Choice of project
-1800 coding challenge seemed the more interesting of the two problems. Also given the time constraints of having to travel and work, I picked something that I could probably code in 10 hours flat on my flight :). Also given that this is the first time I am doing pure TDD, I picked the one that was simpler so I could spend a couple of hours learning how to do TDD. (lifehack). 
+1800 coding challenge seemed the more interesting of the two problems because 
+1.) Given the time constraints of having to travel and work, I picked something that I could probably code in 10 hours flat on my flight :)
+2.)This is the first time I am doing pure TDD, I picked the one that was simpler so I could spend a couple of hours learning how to do TDD. (lifehack). 
+3.) I ask a lot of interview candidates how to design a T9 dictionary to test their data structures knowledge, so I thought it'd be fun to actually code it for once. 
 
 #Design and Approach
 1. Breakdown the requirements and analyze test scenarios
